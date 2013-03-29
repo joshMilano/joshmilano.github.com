@@ -5,7 +5,7 @@ var pstore;
 	
 	pStore = {
 		init: function() {
-			var url = "/pstore.manifest";
+			var url = "pstore.manifest";
 		    $.ajax({
 			  url: url,
 			  success: function(data){

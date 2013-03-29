@@ -1,0 +1,78 @@
+{ 
+"layouts" : [ 
+  { 
+    "label" : "Basic homepage",
+    "author" : "Bootstrap",
+    "uri": "http://127.0.0.1/layouts/hero.html"
+  },
+  { 
+    "label" : "Fluid homepage",
+    "author" : "Bootstrap",
+    "uri": "http://127.0.0.1/layouts/fluid.html"
+  },
+  { 
+    "label" : "Contacts page",
+    "author" : "Bootstrap",
+    "uri": "http://127.0.0.1/layouts/contacts.html"
+  },
+  { 
+    "label" : "Product presentation",
+    "author" : "Bootstrap",
+    "uri": "http://127.0.0.1/layouts/slideshow.html"
+  }
+],
+"themes" : [
+  {
+    "label": "default",
+    "uri": "http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.0/css/bootstrap.css"
+  },
+  {
+    "label": "amelia",
+    "uri": "http://bootswatch.com/amelia/bootstrap.css"
+  }, 
+  {
+    "label": "cerulean",
+    "uri": "http://bootswatch.com/cerulean/bootstrap.css"
+  }, 
+  {
+    "label": "cosmo",
+    "uri": "http://bootswatch.com/cosmo/bootstrap.css"
+  }, 
+  {
+    "label": "cyborg",
+    "uri": "http://bootswatch.com/cyborg/bootstrap.css"
+  }, 
+  {
+    "label": "journal",
+    "uri": "http://bootswatch.com/journal/bootstrap.css"
+  }, 
+  {
+    "label": "readable",
+    "uri": "http://bootswatch.com/readable/bootstrap.css"
+  }, 
+  {
+    "label": "simplex",
+    "uri": "http://bootswatch.com/simplex/bootstrap.css"
+  }, 
+  {
+    "label": "slate",
+    "uri": "http://bootswatch.com/slate/bootstrap.css"
+  }, 
+  {
+    "label": "spacelab",
+    "uri": "http://bootswatch.com/spacelab/bootstrap.css"
+  }, 
+  {
+    "label": "spruce",
+    "uri": "http://bootswatch.com/spruce/bootstrap.css"
+  }, 
+  {
+    "label": "superhero",
+    "uri": "http://bootswatch.com/superhero/bootstrap.css"
+  }, 
+  {
+    "label": "united",
+    "uri": "http://bootswatch.com/united/bootstrap.css"
+  }
+]
+}
