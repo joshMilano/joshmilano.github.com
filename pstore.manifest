@@ -1,0 +1,64 @@
+{ 
+"layouts" : [ 
+  { 
+    "label" : "Basic homepage",
+    "author" : "Bootstrap",
+    "uri": "http://joshmilano.github.com/layouts/hero.html"
+  },
+  { 
+    "label" : "Fluid homepage",
+    "author" : "Bootstrap",
+    "uri": "http://joshmilano.github.com/layouts/fluid.html"
+  },
+  { 
+    "label" : "Contacts page",
+    "author" : "Bootstrap",
+    "uri": "http://joshmilano.github.com/layouts/contacts.html"
+  },
+  { 
+    "label" : "Product presentation",
+    "author" : "Bootstrap",
+    "uri": "http://joshmilano.github.com/layouts/slideshow.html"
+  }
+],
+"themes" : [
+  {
+    "label": "default",
+    "color1": "rgb(196, 81, 81)",
+    "color2": "rgb(61, 7, 7)",
+    "color3": "rgb(184, 224, 189)",
+    "uri": "http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.0/css/bootstrap.css"
+  },
+  {
+    "label": "amelia",
+    "color1": "rgb(217, 206, 206)",
+    "color2": "rgb(217, 206, 206)",
+    "color3": "rgb(217, 206, 206)",
+    "uri": "http://bootswatch.com/amelia/bootstrap.css"
+  }
+  ,
+  {
+    "label": "amelia",
+    "color1": "rgb(17, 206, 203)",
+    "color2": "rgb(117, 206, 206)",
+    "color3": "rgb(77, 206, 206)",
+    "uri": "http://bootswatch.com/cerulean/bootstrap.css"
+  }
+  ,
+  {
+    "label": "amelia",
+    "color1": "rgb(67, 206, 101)",
+    "color2": "rgb(37, 203, 103)",
+    "color3": "rgb(57, 206, 206)",
+    "uri": "http://bootswatch.com/cosmo/bootstrap.css"
+  }
+  ,
+  {
+    "label": "amelia",
+    "color1": "rgb(17, 206, 206)",
+    "color2": "rgb(47, 201, 206)",
+    "color3": "rgb(37, 206, 206)",
+    "uri": "http://bootswatch.com/cyborg/bootstrap.css"
+  }
+]
+}
